@@ -17,21 +17,21 @@ global.APIKeys = {
 }
 
 //other
-global.owner = ['94715166712'] 
-global.pemilik = ['94715166712'] //pemilik nomor
-global.premium = ['94715166712'] //premium number
+global.owner = ['7040468798'] 
+global.pemilik = ['2347040468798'] //pemilik nomor
+global.premium = ['2347040468798'] //premium number
 global.pengguna = 'Nima' //pengguna
 global.botnma = 'GROUP BOT INC' //botnama,botname
-global.ownernma = 'nima' //ownernama,ownername
-global.packname = '© ɴɪᴍᴀ ᴇᴅɪᴛɪᴏɴ' // packname
-global.author = 'ɴɪᴍᴀ ᴏғᴄ ɢʀᴏᴜᴘ ʙᴏᴛ' //authorname
+global.ownernma = 'doyex' //ownernama,ownername
+global.packname = '© doyextech' // packname
+global.author = 'doyextech😎' //authorname
 global.sessionName = 'session'
 global.prefa = ['#','!','/',''] 
 global.sp = '🔵'
-global.alive =`Hello i am alive now
+global.alive =`Hello i am alive now...send me your commands
 
 Download song type .yt 
-Thanks fro using...`
+Thanks for using...`
 global.mess = {
     success: '✅ Done!',
     admin: 'you must be admin to use this cmd!',

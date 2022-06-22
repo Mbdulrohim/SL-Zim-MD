@@ -17,11 +17,11 @@ global.APIKeys = {
 }
 
 //other
-global.owner = ['7040468798'] 
+global.owner = ['2347040468798'] 
 global.pemilik = ['2347040468798'] //pemilik nomor
 global.premium = ['2347040468798'] //premium number
-global.pengguna = 'Nima' //pengguna
-global.botnma = 'GROUP BOT INC' //botnama,botname
+global.pengguna = 'Doyex Tech' //pengguna
+global.botnma = 'DOYYEX TECH BOTs' //botnama,botname
 global.ownernma = 'doyex' //ownernama,ownername
 global.packname = '© doyextech' // packname
 global.author = 'doyextech😎' //authorname
@@ -36,11 +36,11 @@ global.mess = {
     success: '✅ Done!',
     admin: 'you must be admin to use this cmd!',
     botAdmin: 'zim bot must be admin neh!',
-    owner: 'This cmd is for zim bot owner only',
+    owner: 'This cmd is for *GC MANAGER* bot owner only',
     group: 'oooh sorry this cmd is for groups only!',
     private: 'goossssh it can only used in dms!',
     bot: 'This cmd  its only for the bot host',
-    wait: 'wait zim bot processing ',
+    wait: 'wait *GC MANAGER* bot processing ',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
 }
 global.limitawal = {
